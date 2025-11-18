@@ -62,3 +62,9 @@ We need to come up with a list of papers which can be used as seed or root paper
 
 - [x] Convert top-level links to arxiv abstracts for the ones which are not.
 - [ ] Create consolidated list of references from the root papers identified above
+    * Create script to scrape the GS citations from browser
+    * Create script to scrape the Harvard ADS citations list
+    * One can download the bib file of citations from connectedpapers, so no need for script.
+- [ ] From [this repo](https://github.com/j991222/ai4math-papers), select the additional root papers to consider.
+- [ ] Come up with a category for classifying the papers. 
+    * The groups in the above link & the [survey paper repo](https://github.com/zhaoyu-li/DL4TP) can be used.
